@@ -2,7 +2,6 @@
 <img src="https://github.com/Mehdi-MMO/Mehdi-MMO/blob/main/github-contribution-grid-snake.svg">
 </p>
 
-<h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-MMO&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
