@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on fivem resources scripting & fusion APP <br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning cyber security<br>⚡ Fun fact 
-
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mehdi_mmo) 
 
